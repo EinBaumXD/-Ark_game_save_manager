@@ -43,6 +43,7 @@ Here's a tutorial on how to use the ARK Game Save Management Program:
 ### Tips
 - Always select the “Game Directory” and “Save Directory” first before saving or loading games.
 - Choose an empty save slot or overwrite an existing one if you want to create new backups.
+- Sometimes in the game you have to press tab and type "admincheat saveworld" to refresh the data before saving.
 - **NEVER HAVE YOUR GAME RUNNING WHILE LOADING AN OLD SAVE!!!**
 ---
 
